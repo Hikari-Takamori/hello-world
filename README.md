@@ -1,3 +1,2 @@
 # hello-world
-ハロワ
-# idolm@ster
+helloworld
